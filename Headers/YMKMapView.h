@@ -12,6 +12,7 @@
 #import <Foundation/Foundation.h>
 
 #import "YMKMapStructs.h"
+#import <UIKit/UIKit.h>
 
 
 @class YMKAnnotationView;
